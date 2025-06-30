@@ -44,8 +44,7 @@ Currently, my primary focus is on solidifying my fundamental programming logic t
 <br>
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ram24-L&show_icons=true&theme=radical)](https://github.com/Ram24-L)
 <br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <img src="https://github.com/Ram24-L/ram24-L/blob/output/github-contribution-grid-snake.svg?raw=true" alt="GitHub Snake" />
+</p>
+
