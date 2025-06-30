@@ -5,7 +5,7 @@
 ### Software Engineering Student 
 ### IPB University
 
-Just an average college student wondering about how and what purposes to live. Welcome to my GitHub Profile! 🖐️
+Just an average college student, wondering about thing like how to live and its purposes. Welcome to my GitHub Profile! 🖐️
 
 ---
 
