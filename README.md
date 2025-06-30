@@ -44,7 +44,5 @@ Currently, my primary focus is on solidifying my fundamental programming logic t
 <br>
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ram24-L&show_icons=true&theme=radical)](https://github.com/Ram24-L)
 <br>
-<p align="center">
-  <img src="https://github.com/Ram24-L/ram24-L/blob/output/github-contribution-grid-snake.svg?raw=true" alt="GitHub Snake" />
-</p>
+
 
