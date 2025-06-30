@@ -13,6 +13,8 @@ Just an average college student wondering about how and what purposes to live. W
 
 Currently, my primary focus is on solidifying my fundamental programming logic through **Competitive Programming**. I believe mastering these core concepts is crucial before delving into more complex project development.
 
+📫 Reach me : mramdhanmaulana24@gmail.com
+
 ### Languages and Tools:
 
 <p align="left">
